@@ -57,20 +57,22 @@ DELETE  /api/products/{id}      - Delete a product
 
 ---
 
-API Testing (Postman)
-The REST API was tested using Postman. Below are screenshots demonstrating all CRUD operations.
 
-Get all products:
-screenshots/get-all.png
 
-Create product:
-screenshots/post-create.png
+## API Testing (Postman)
 
-Update product:
-screenshots/put-update.png
+### Get all products
+![Get all products](screenshots/get-all.png)
 
-Delete product:
-screenshots/delete.png
+### Create product
+![Create product](screenshots/post-create.png)
+
+### Update product
+![Update product](screenshots/put-update.png)
+
+### Delete product
+![Delete product](screenshots/delete.png)
+
 
 ---
 
